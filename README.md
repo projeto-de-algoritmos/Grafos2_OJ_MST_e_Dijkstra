@@ -1,45 +1,44 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
 Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
 
-# NomedoProjeto
+- Grafos2
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+# OJ_MST_e_Dijkstra
+
+**Número da Lista**: 20
+
+**Conteúdo da Disciplina**: Grafos 2
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+| Matrícula  | Aluno                           |
+| ---------- | ------------------------------- |
+| 18/0054848 | Rhuan Carlos Pereira de Queiroz |
+| 18/0028308 | Thiago Guilherme Muniz Ferreira |
+
+## Sobre
+
+O projeto consta em resolver questões dos conteúdos estudados no módulo de grafos 2, MST e Dijkstra, que estão disponíveis em plataformas de juizes online.
 
 ## Screenshots
+
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+## Instalação
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+**Linguagem**: C++ 17
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+## Uso
 
+O usuário pode enviar o código referente a cada questão no site do juiz online ou se preferir pode rodar código localmente através de um compilador de C++, para isso é recomendavél que o usuário utilize as entradas de exemplos presentes nos enunciados de cada uma.
 
+**_Obs:_** Algumas soluções utilizam recursos que estão disponíveis somente em versões posteriores ao c++ 17, portanto caso queira enviar as questões no site do juiz online ou rodar localmente tenha certeza de utilizar uma versão compatível.
 
+## Links para as questões
 
+### URI
+
+- [1764](https://www.urionlinejudge.com.br/judge/pt/problems/view/1764)
+
+### CodeForces
+
+- [101889I](https://codeforces.com/gym/101889/attachments)
