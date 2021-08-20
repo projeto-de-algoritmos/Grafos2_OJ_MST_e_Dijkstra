@@ -42,3 +42,4 @@ O usuário pode enviar o código referente a cada questão no site do juiz onlin
 ### CodeForces
 
 - [101889I](https://codeforces.com/gym/101889/attachments)
+- [20C](https://codeforces.com/contest/20/problem/C)
