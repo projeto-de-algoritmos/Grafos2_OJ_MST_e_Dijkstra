@@ -21,7 +21,11 @@ O projeto consta em resolver questões dos conteúdos estudados no módulo de gr
 
 ## Screenshots
 
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![Accepted_01](./URI/1123/uri_1123.jpg)
+
+![Accepted_02](./CodeForces/20C/accepted.png)
+
+![Accepted_03](./CodeForces/101889I/accepted.png)
 
 ## Instalação
 
@@ -38,6 +42,7 @@ O usuário pode enviar o código referente a cada questão no site do juiz onlin
 ### URI
 
 - [1764](https://www.urionlinejudge.com.br/judge/pt/problems/view/1764)
+- [1123](https://www.urionlinejudge.com.br/judge/pt/problems/view/1123)
 
 ### CodeForces
 
