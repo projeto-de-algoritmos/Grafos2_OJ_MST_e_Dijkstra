@@ -37,6 +37,10 @@ O usuário pode enviar o código referente a cada questão no site do juiz onlin
 
 **_Obs:_** Algumas soluções utilizam recursos que estão disponíveis somente em versões posteriores ao c++ 17, portanto caso queira enviar as questões no site do juiz online ou rodar localmente tenha certeza de utilizar uma versão compatível.
 
+## Vídeo
+
+O vídeo **NÃO** se encontra na raiz do repositório por motivos de tamanho máximo do git. O mesmo se encontra acessível no drive via esse [link](https://drive.google.com/file/d/1cr9Q4LIZP6xATdg8Y7zIkd6IDulpzrAT/view?usp=sharing) nele elaboramos e explicamos a soluções para as questões 101889I e 1123. A solução da questão 1123 começa por volta de 5:30min.
+
 ## Links para as questões
 
 ### URI
